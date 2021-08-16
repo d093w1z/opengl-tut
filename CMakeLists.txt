@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.0)
-project(libmygraph VERSION 0.1.0)
+project(opengl-tut VERSION 0.1.0)
 
 set(SOURCE_FILES "src")
 
